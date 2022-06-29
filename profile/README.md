@@ -13,7 +13,3 @@ Começamos a trabalhar com eles com a tecnologia Flutter (Desenvolvimento Híbri
 
 ## Quem Somos?
 Todos os menotores do projeto são estusiastas em programação, sendo em sua maioria, desenvolvedores de softwares e/ou universitários!
-
-<br />
------------
-Open your Mind!
