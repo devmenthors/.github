@@ -1,12 +1,16 @@
-## Hi there 👋
+# DevMenthors
 
-<!--
+[![Alt text]](https://devmenthors.com.br/img/dev.svg)
 
-**Here are some ideas to get you started:**
+## Projeto
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+O DevMenthors foi criado com o intuido de estimular o apreendizado das Tecnologias mais formetadas no mercado de trabalho para os Alunos da ETEC Antonio Devisate!
+Começamos a trabalhar com eles com a tecnologia Flutter (Desenvolvimento Híbrido Mobile).
+
+
+## Quem Somos?
+
+Todos os menotores do projeto são estusiastas em programação, sendo em sua maioria, desenvolvedores de softwares e/ou universitários!
+
+-----------
+Open your Mind!
