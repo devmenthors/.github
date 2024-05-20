@@ -1,4 +1,3 @@
-<br />
 # DevMenthors
 
 ![DevMenrhos](https://devmenthors.com.br/img/dev.svg)
